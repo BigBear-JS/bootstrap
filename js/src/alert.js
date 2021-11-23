@@ -4,7 +4,7 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  * --------------------------------------------------------------------------
  */
-
+     
 import { defineJQueryPlugin } from './util/index'
 import EventHandler from './dom/event-handler'
 import BaseComponent from './base-component'
